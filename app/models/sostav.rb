@@ -1,0 +1,2 @@
+class Sostav < ApplicationRecord
+end

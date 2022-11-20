@@ -1,0 +1,2 @@
+class SostavSec < ApplicationRecord
+end
